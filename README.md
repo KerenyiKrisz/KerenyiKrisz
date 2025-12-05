@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I’m Krisztián
 
-<!--
-**KerenyiKrisz/KerenyiKrisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data and analytics student at **ESMT Berlin**, focusing on practical, business-oriented applications of data, automation, and reporting. I enjoy building clear analytical solutions that improve decision-making and reduce manual work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m currently working on
+
+- Digital media and traffic analytics  
+- Python and R data workflows for reporting and KPI automation  
+- Analytics tooling and better developer workflows (uv, marimo, pytest, ruff)  
+- Exploratory text analysis projects
+
+---
+
+## Tech stack
+
+**Programming & Data**  
+Python, R, SQL, pandas, NumPy, scikit-learn, XGBoost, seaborn, plotly, tidyverse, dplyr, ggplot2
+
+**Analytics & BI**  
+Power BI, Tableau, Excel, Celonis EMS (Process Mining)
+
+**Development**  
+Git, GitHub, GitHub Actions, Docker, Azure, Jupyter, VS Code
+
+**Workflow & Tooling**  
+uv, marimo, pytest, ruff, isort, ty, MkDocs
+
+---
+
+## Featured projects  
+(Repositories are being uploaded and cleaned. Links will be added shortly.)
+
+- **Media Analytics Toolkit**  
+  Python scripts and reporting tools for digital media performance analysis.
+
+- **Case Study Analyses**  
+  End-to-end data analysis examples from university coursework and simulations.
+
+- **Text Analytics Experiments**  
+  Exploratory notebooks on long-form text, including basic NLP and visualization.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/krisztian-kerenyi/  
+- Email: kerenyikrisztian@gmail.com
