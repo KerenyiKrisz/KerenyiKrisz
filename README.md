@@ -6,10 +6,10 @@ I am a data and analytics student at **ESMT Berlin**, focusing on practical, bus
 
 ## What I’m currently working on
 
-- Digital media and traffic analytics  
-- Python and R data workflows for reporting and KPI automation  
-- Analytics tooling and better developer workflows (uv, marimo, pytest, ruff)  
-- Exploratory text analysis projects
+Digital media and traffic analytics  
+Python and R data workflows for reporting and KPI automation  
+Analytics tooling and better developer workflows (uv, marimo, pytest, ruff)  
+Exploratory text analysis projects
 
 ---
 
