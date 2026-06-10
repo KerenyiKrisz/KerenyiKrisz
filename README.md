@@ -31,15 +31,8 @@ uv, marimo, pytest, ruff, isort, ty, MkDocs
 
 ## Featured projects  
 
-
-- **Media Analytics Toolkit**  
-  Python scripts and reporting tools for digital media performance analysis.
-
-- **Case Study Analyses**  
-  End-to-end data analysis examples from university coursework and simulations.
-
-- **Text Analytics Experiments**  
-  Exploratory notebooks on long-form text, including basic NLP and visualization.
+Telco Churn Prediction — churn model with CI and Azure deployment
+Spotify EDA with CI — exploratory analysis wrapped in a full testing/CI pipeline
 
 ---
 
