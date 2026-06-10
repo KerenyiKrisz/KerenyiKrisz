@@ -33,6 +33,7 @@ uv, marimo, pytest, ruff, isort, ty, MkDocs
 ## Featured projects  
 
 Telco Churn Prediction — churn model with CI and Azure deployment
+
 Spotify EDA with CI — exploratory analysis wrapped in a full testing/CI pipeline
 
 ---
