@@ -1,3 +1,4 @@
+
 # Hi, I’m Krisztián
 
 I am a business & data analyst from **ESMT Berlin**, focusing on practical, business-oriented applications of data, automation, and reporting. I enjoy building clear analytical solutions that improve decision-making and reduce manual work.
