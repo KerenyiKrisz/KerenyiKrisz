@@ -30,7 +30,7 @@ uv, marimo, pytest, ruff, isort, ty, MkDocs
 ---
 
 ## Featured projects  
-(Repositories are being uploaded and cleaned. Links will be added shortly.)
+
 
 - **Media Analytics Toolkit**  
   Python scripts and reporting tools for digital media performance analysis.
